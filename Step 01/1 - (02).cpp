@@ -1,27 +1,12 @@
-/*
-	¹éÁØ Q.1 - 02 (10718)
-	´ëÈ¸¸¦ ¶ã ÁÙ ¸ð¸£´Â Áö¹Ú·É kriii¸¦ À§ÇØ¼­ °Ý·ÁÀÇ ¹®±¸¸¦ Ãâ·Â
-*/
-/*
+// This code was written as C.
+// It prints "ê°•í•œì¹œêµ¬ ìœ¡êµ°" twice.
 
-#define MAX 20
 #include <stdio.h>
 
 int main()
 {
-	char s[MAX] = "°­ÇÑÄ£±¸ ´ëÇÑÀ°±º";
-	printf("%s\n%s\n\n", s, s);
-	return 0;
-}
-*/
-/*
-#include <stdio.h>
-
-int main()
-{
-	printf("°­ÇÑÄ£±¸ À°±º\n");
-	printf("°­ÇÑÄ£±¸ À°±º\n");
+	printf("ê°•í•œì¹œêµ¬ ìœ¡êµ°\n");
+	printf("ê°•í•œì¹œêµ¬ ìœ¡êµ°\n");
 
 	return 0;
 }
-*/
