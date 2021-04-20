@@ -12,16 +12,15 @@
 int main()
 {
 	int jeomsu;
-
 	scanf("%d", &jeomsu);
-  /*
-  if (jeomsu < 0 || jeomsu > 100)
+ 	/*
+  	if (jeomsu < 0 || jeomsu > 100)
 	{
 		printf("Jeomsu hasn't been written right!!\n");
-    printf("Restart this program!!\n");
+    		printf("Restart this program!!\n");
 		exit (1);
 	}
-  */
+  	*/
 	if (jeomsu >= 90 && jeomsu <= 100) { printf("A\n"); }
 	else if (jeomsu >= 80 && jeomsu < 90) { printf("B\n"); }
 	else if (jeomsu >= 70 && jeomsu < 80) { printf("C\n"); }
