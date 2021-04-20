@@ -11,10 +11,10 @@
 
 int main()
 {
-  int year;
-	int yes;
   
-  scanf("%d", &year);
+	int year;
+	
+	scanf("%d", &year);
   /*
 	if (year < 0)
 	{
@@ -31,6 +31,5 @@ int main()
 	{
 		printf("0\n");
 	}
-  
-  return 0;
+	return 0;
 }
