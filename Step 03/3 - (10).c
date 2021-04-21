@@ -13,7 +13,7 @@ and Step 03 - (10)'d be like
  **
 ***
 
-So I'm gonna change one thing in "for" repetition.
+So I'm gonna add one condition in "for" repetition.
 */
 
 #include <stdio.h>
