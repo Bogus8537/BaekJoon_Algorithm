@@ -1,4 +1,4 @@
-// This code was written for printing stars as much user wants.
+// This code was written for printing stars as much as users want to do.
 // like this!!
 // *
 // **
