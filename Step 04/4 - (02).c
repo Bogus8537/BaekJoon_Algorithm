@@ -1,4 +1,5 @@
 // BaekJoon Q4 - 02 (10951)
+
 // This program's similar with Step 04 - (01).c
 // There's a part of addtion comparing 4 - (01).c
 // It added EOF condition to exit this program when users want to end.
