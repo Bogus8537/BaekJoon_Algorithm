@@ -12,12 +12,12 @@ int main()
   
   scanf("%d %d", &H, &M);
   /*
-  if (hour > 24 || min > 60)
-	{
-		printf("Alarm Time Set Error!!\n");
-    printf("Restart!! -.-;;\n");
-		exit(1);
-	}
+  if (H > 24 || M > 60)
+  {
+  	printf("Alarm Time Set Error!!\n");
+  	printf("Restart!! -.-;;\n");
+ 	exit(1);
+  }
   */
   
   if(M < 45)
