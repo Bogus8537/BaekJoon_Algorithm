@@ -1,4 +1,4 @@
-// This code was written for "A+B for repetition" you want to do much.
+// This code was written for "A+B for repetition" as much as users want to do.
 
 #include <stdio.h>
 
