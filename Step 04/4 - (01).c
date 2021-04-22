@@ -1,3 +1,5 @@
+// BaekJoon Q4 - 01 (10952)
+
 // This code was written for "A + B" as much as users want to do.
 // At this time, We're gonna use "While" repetition.
 // If users want to end this program, input 0 and 0 to two variables "A" and "B".
